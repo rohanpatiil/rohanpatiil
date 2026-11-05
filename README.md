@@ -66,27 +66,3 @@ I love building products that solve real-world problems — whether it’s throu
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpatiil&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpatiil" /> </a>
 </p>
-
-
-
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanpatiil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanpatiil&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</p>
-
----
-
-### 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanpatiil&theme=tokyo-night&hide_border=true&area=true&custom_title=Rohan%27s%20GitHub%20Contribution%20Graph" width="100%" alt="GitHub Contribution Graph"/>
-</p>
-
----
-
-
