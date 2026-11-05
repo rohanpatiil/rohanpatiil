@@ -66,19 +66,3 @@ I love building products that solve real-world problems — whether it’s throu
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="left"> <img src="https://komarev.com/ghpvc/?username=Rohanf4f&label=Profile%20views&color=0e75b6&style=flat" alt="Rohanf4f" /> </a>
 </p>
-
-
----
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohanf4f&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohanf4f&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-### 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanf4f&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
