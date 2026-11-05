@@ -30,41 +30,7 @@ I love building products that solve real-world problems — whether it’s throu
 
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/> </p>
 
-
 ---
-
-### 🚀 Featured Projects
-
-#### 🪴 **AGRO NATION (Blockchain Supply Chain Web Application)**
-> Transparent crop-to-consumer tracking using Ethereum + Solidity.  
-> Farmers can trace every transaction without third-party interference.
-
-#### 🧠 **Sign Language Recognition System (Python Framework)**
-> Real-time sign detection using CNN + MediaPipe with 97% accuracy.
-
-#### 🌾 **AGRI INFO (Smart Farming Guide Android App)**
-> Android app built with Java and XML to help farmers with crop cultivation,  
-> seeding, and pest prevention — includes season-wise crop filtering and best practices.
-
----
-
-### 📄 Research Papers & Publications  
-
-<p align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Human_Centric_Behaviour_Analytics-IEEE-blue?logo=ieee" alt="Human Centric Behaviour Analytics Paper" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Sign_Language_Recognition-IJRTE-orange?logo=python" alt="Sign Language Recognition System Paper" />
-  </a>
-</p>
-
-**Brief Highlights:**  
-- **Human-Centric Behaviour Analytics:** Explored surveillance-based behavioral patterns with emphasis on human interaction and activity analysis.  
-- **Sign Language Recognition System using CNN:** Real-time gesture recognition system achieving high accuracy, improving communication for deaf-mute individuals.
-
----
-
 ### 🧰 Tech Toolbox  
 
 #### 🖥️ Programming Languages  
@@ -74,53 +40,29 @@ I love building products that solve real-world problems — whether it’s throu
 
 #### ⚙️ Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,tensorflow,pytorch,opencv,react,nodejs,express,qt" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs" />
 </p>
 
 #### ☁️ Cloud & DevOps  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx" />
 </p>
 
 #### 🗄️ Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
-
-#### 🧩 Tools & IDEs  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,postman,git,github" />
-</p>
-
 
 #### 🤖 AI / ML & Data Science  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
 ---
-
-
-### 🎓 Certifications & Skills
-
-<p align="center">
-   <img src="https://img.shields.io/badge/Java-SE-blue?logo=java" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Android-Development-green?logo=android" alt="Android" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-Cloud-yellow?logo=firebase" alt="Firebase" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Blockchain-Ethereum-purple?logo=ethereum" alt="Blockchain" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-Programming-blue?logo=python" alt="Python" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:rohanpatil4002@gmail.com"><img src="https://img.shields.io/badge/Email-Email-blue?logo=gmail"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/whorohanpatil"><img src="https://img.shields.io/badge/LinkedIn-Rohan-blue?logo=linkedin"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/whorohanpatil"><img src="https://img.shields.io/badge/Twitter-Rohan-blue?logo=twitter"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="left"> <img src="https://komarev.com/ghpvc/?username=Rohanf4f&label=Profile%20views&color=0e75b6&style=flat" alt="Rohanf4f" /> </a>
 </p>
